@@ -1,0 +1,30 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+*.dll
+*.exe
+*.log
+
+# Ignore temporary files
+*.tmp
+*.lock
+*.cache
+
+# Ignore local database files
+*.mdf
+*.ldf
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore other files
+*.db
+*.bak
+*.log
